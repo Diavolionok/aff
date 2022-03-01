@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <math.h>
+main()
+{
+fload y;
+int x;
+scanf ("%d"&x);
+y=cos(x)+10;
+printf("Resut: &f",y)
+}
