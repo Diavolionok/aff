@@ -6,5 +6,6 @@ fload y;
 int x;
 scanf ("%d"&x);
 y=cos(x)+10;
+y=y*2
 printf("Resut: &f",y)
 }
